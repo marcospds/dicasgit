@@ -1,2 +1,5 @@
 # dicasgit
 Dicas git
+
+commit
+
