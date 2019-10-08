@@ -1,5 +1,5 @@
 # dicasgit
 Dicas git
 
-comentario
+comentario e commit
 
